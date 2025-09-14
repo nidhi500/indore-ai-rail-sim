@@ -1,0 +1,8 @@
+section_id,from_station,to_station,single_or_double,electrified,length_km,max_speed_kmph
+S01,UJN,MKC,double,True,39,110
+S02,UJN,DWX,double,True,38,100
+S03,DWX,MKC,single,True,36,75
+S04,INDB,DWX,double,True,35,100
+S05,FTD,INDB,single,True,36,70
+S06,DADN,INDB,double,True,15,70
+S07,FTD,UJN,single,True,19,70

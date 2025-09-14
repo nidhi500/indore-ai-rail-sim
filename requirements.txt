@@ -1,6 +1,24 @@
-fastapi
-uvicorn
-simpy
-ortools
-pandas
-pytest
+# Backend
+fastapi==0.115.0
+uvicorn==0.30.0
+
+# Simulation / Optimization
+simpy==4.1.1
+ortools==9.10.4067
+networkx==3.2.1
+
+# Data
+pandas==2.2.2
+
+# Frontend (choose one)
+streamlit==1.38.0
+plotly==5.24.0
+# dash==2.17.1   # optional alternative to Streamlit
+
+# Utilities
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Testing
+pytest==8.3.2

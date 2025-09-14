@@ -1,0 +1,7 @@
+name,station_id,platform_count,track_count,gradient,has_loop
+Indore Junction,INDB,6,6,Level,True
+Dewas Junction,DWX,3,5,Gentle,True
+Ujjain Junction,UJN,8,15,Level,True
+Maksi Junction,MKC,3,4,Gentle,True
+Fatehabad Chandrawatiganj,FTD,2,4,Steep,True
+Dr. Ambedkar Nagar,DADN,4,9,Gentle,True

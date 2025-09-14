@@ -1,0 +1,50 @@
+[
+  {
+    "station_name":"Indore Junction",
+    "station_code":"INDB",
+    "no_of_platforms":6,
+    "no_of_tracks":6,
+    "gradient":"Level",
+    "has_loop":true
+  },
+  {
+    "station_name":"Dewas Junction",
+    "station_code":"DWX",
+    "no_of_platforms":3,
+    "no_of_tracks":5,
+    "gradient":"Gentle",
+    "has_loop":true
+  },
+  {
+    "station_name":"Ujjain Junction",
+    "station_code":"UJN",
+    "no_of_platforms":8,
+    "no_of_tracks":15,
+    "gradient":"Level",
+    "has_loop":true
+  },
+  {
+    "station_name":"Maksi Junction",
+    "station_code":"MKC",
+    "no_of_platforms":3,
+    "no_of_tracks":4,
+    "gradient":"Gentle",
+    "has_loop":true
+  },
+  {
+    "station_name":"Fatehabad Chandrawatiganj",
+    "station_code":"FTD",
+    "no_of_platforms":2,
+    "no_of_tracks":4,
+    "gradient":"Steep",
+    "has_loop":true
+  },
+  {
+    "station_name":"Dr. Ambedkar Nagar",
+    "station_code":"DADN",
+    "no_of_platforms":4,
+    "no_of_tracks":9,
+    "gradient":"Gentle",
+    "has_loop":true
+  }
+]

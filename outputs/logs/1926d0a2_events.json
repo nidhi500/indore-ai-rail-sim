@@ -1,0 +1,1034 @@
+[
+  {
+    "time": "00:00",
+    "train_id": "RA001",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "RA002",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "SU003",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "SU004",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "SU005",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "SU006",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:00",
+    "train_id": "EX007",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "EX008",
+    "event": "arrive_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "EX009",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "EX010",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "EX011",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "EX012",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "PA013",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "PA014",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:00",
+    "train_id": "PA015",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "GO016",
+    "event": "arrive_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "GO017",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "GO018",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:00",
+    "train_id": "GO019",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:00",
+    "train_id": "GO020",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "RA001",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "RA001",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "RA002",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "RA002",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU003",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU003",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU004",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU004",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU005",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU005",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU006",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:01",
+    "train_id": "SU006",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX007",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX007",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX008",
+    "event": "depart_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX008",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX009",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX009",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX010",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX010",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX011",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX011",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX012",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "EX012",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "PA013",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "PA013",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "PA014",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:01",
+    "train_id": "PA014",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "PA015",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "PA015",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO016",
+    "event": "depart_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO016",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO017",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO017",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO018",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO018",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO019",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO019",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO020",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:01",
+    "train_id": "GO020",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:14",
+    "train_id": "EX007",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:14",
+    "train_id": "EX008",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:14",
+    "train_id": "PA015",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:14",
+    "train_id": "GO016",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:15",
+    "train_id": "EX007",
+    "event": "arrive_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:15",
+    "train_id": "EX008",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:15",
+    "train_id": "PA015",
+    "event": "arrive_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:15",
+    "train_id": "GO016",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:16",
+    "train_id": "GO016",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:17",
+    "train_id": "SU004",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:17",
+    "train_id": "EX012",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:17",
+    "train_id": "GO020",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:18",
+    "train_id": "SU004",
+    "event": "arrive_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:18",
+    "train_id": "EX012",
+    "event": "arrive_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:18",
+    "train_id": "GO020",
+    "event": "arrive_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:19",
+    "train_id": "EX007",
+    "event": "depart_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:19",
+    "train_id": "EX008",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:19",
+    "train_id": "GO020",
+    "event": "depart_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:19",
+    "train_id": "GO020",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:20",
+    "train_id": "PA015",
+    "event": "depart_station",
+    "station_code": "DADN"
+  },
+  {
+    "time": "00:21",
+    "train_id": "SU004",
+    "event": "depart_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:21",
+    "train_id": "SU004",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:22",
+    "train_id": "RA001",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:22",
+    "train_id": "SU005",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:22",
+    "train_id": "EX009",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:22",
+    "train_id": "EX012",
+    "event": "depart_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:22",
+    "train_id": "EX012",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:23",
+    "train_id": "RA001",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:23",
+    "train_id": "SU005",
+    "event": "arrive_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:23",
+    "train_id": "EX009",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:24",
+    "train_id": "RA002",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:24",
+    "train_id": "EX010",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:25",
+    "train_id": "RA001",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:25",
+    "train_id": "RA001",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:25",
+    "train_id": "RA002",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:25",
+    "train_id": "EX010",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:26",
+    "train_id": "SU005",
+    "event": "depart_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:26",
+    "train_id": "SU005",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:27",
+    "train_id": "RA002",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:27",
+    "train_id": "RA002",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:27",
+    "train_id": "EX009",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:27",
+    "train_id": "EX009",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:29",
+    "train_id": "EX010",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:29",
+    "train_id": "EX010",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:30",
+    "train_id": "SU006",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:30",
+    "train_id": "PA013",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:30",
+    "train_id": "PA014",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:31",
+    "train_id": "SU006",
+    "event": "arrive_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:31",
+    "train_id": "PA013",
+    "event": "arrive_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:31",
+    "train_id": "PA014",
+    "event": "arrive_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:31",
+    "train_id": "GO017",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:32",
+    "train_id": "SU003",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:32",
+    "train_id": "EX011",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:32",
+    "train_id": "GO017",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:32",
+    "train_id": "GO019",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:33",
+    "train_id": "SU003",
+    "event": "arrive_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:33",
+    "train_id": "EX011",
+    "event": "arrive_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:33",
+    "train_id": "GO017",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:33",
+    "train_id": "GO017",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:33",
+    "train_id": "GO019",
+    "event": "arrive_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:34",
+    "train_id": "SU006",
+    "event": "depart_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:34",
+    "train_id": "SU006",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:34",
+    "train_id": "GO018",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:34",
+    "train_id": "GO019",
+    "event": "depart_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:34",
+    "train_id": "GO019",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:35",
+    "train_id": "GO018",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:36",
+    "train_id": "SU003",
+    "event": "depart_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:36",
+    "train_id": "SU003",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:36",
+    "train_id": "PA013",
+    "event": "depart_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:36",
+    "train_id": "PA013",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:36",
+    "train_id": "PA014",
+    "event": "depart_station",
+    "station_code": "MKC"
+  },
+  {
+    "time": "00:36",
+    "train_id": "PA014",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:36",
+    "train_id": "GO018",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:36",
+    "train_id": "GO018",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:37",
+    "train_id": "EX011",
+    "event": "depart_station",
+    "station_code": "FTD"
+  },
+  {
+    "time": "00:37",
+    "train_id": "EX011",
+    "event": "enter_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:48",
+    "train_id": "RA001",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:48",
+    "train_id": "RA002",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:49",
+    "train_id": "RA001",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:49",
+    "train_id": "RA002",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:50",
+    "train_id": "EX009",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:50",
+    "train_id": "EX010",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:50",
+    "train_id": "GO019",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:50",
+    "train_id": "GO020",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:51",
+    "train_id": "RA001",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:51",
+    "train_id": "RA002",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:51",
+    "train_id": "EX009",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:51",
+    "train_id": "EX010",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:51",
+    "train_id": "GO019",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:51",
+    "train_id": "GO020",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:52",
+    "train_id": "SU003",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:52",
+    "train_id": "SU004",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:52",
+    "train_id": "GO019",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:52",
+    "train_id": "GO020",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:53",
+    "train_id": "SU003",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:53",
+    "train_id": "SU004",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:53",
+    "train_id": "EX011",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:53",
+    "train_id": "EX012",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:54",
+    "train_id": "EX011",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:54",
+    "train_id": "EX012",
+    "event": "arrive_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:55",
+    "train_id": "SU005",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:55",
+    "train_id": "SU006",
+    "event": "exit_section",
+    "section_id": "UNKNOWN"
+  },
+  {
+    "time": "00:55",
+    "train_id": "EX009",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:55",
+    "train_id": "EX010",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:56",
+    "train_id": "SU003",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:56",
+    "train_id": "SU004",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:56",
+    "train_id": "SU005",
+    "event": "arrive_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:56",
+    "train_id": "SU006",
+    "event": "arrive_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:58",
+    "train_id": "EX011",
+    "event": "depart_station",
+    "station_code": "UJN"
+  },
+  {
+    "time": "00:58",
+    "train_id": "EX012",
+    "event": "depart_station",
+    "station_code": "INDB"
+  },
+  {
+    "time": "00:59",
+    "train_id": "SU005",
+    "event": "depart_station",
+    "station_code": "DWX"
+  },
+  {
+    "time": "00:59",
+    "train_id": "SU006",
+    "event": "depart_station",
+    "station_code": "UJN"
+  }
+]

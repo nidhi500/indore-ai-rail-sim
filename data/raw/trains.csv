@@ -1,0 +1,21 @@
+train_id,name,type,priority_wt,length_m,seats_or_tonnage,accel_mps2,decel_mps2,speed_class_kmph,dwell_std_min
+RA001,Rajdhani 1001,Rajdhani,100,450,1200,0.6,0.7,120,2
+RA002,Rajdhani 1002,Rajdhani,100,450,1200,0.6,0.7,120,2
+SU003,Superfast 1003,Superfast,85,400,1000,0.55,0.65,110,3
+SU004,Superfast 1004,Superfast,85,400,1000,0.55,0.65,110,3
+SU005,Superfast 1005,Superfast,85,400,1000,0.55,0.65,110,3
+SU006,Superfast 1006,Superfast,85,400,1000,0.55,0.65,110,3
+EX007,Express 1007,Express,75,380,900,0.5,0.6,100,4
+EX008,Express 1008,Express,75,380,900,0.5,0.6,100,4
+EX009,Express 1009,Express,75,380,900,0.5,0.6,100,4
+EX010,Express 1010,Express,75,380,900,0.5,0.6,100,4
+EX011,Express 1011,Express,75,380,900,0.5,0.6,100,4
+EX012,Express 1012,Express,75,380,900,0.5,0.6,100,4
+PA013,Passenger 1013,Passenger,60,320,700,0.45,0.55,80,5
+PA014,Passenger 1014,Passenger,60,320,700,0.45,0.55,80,5
+PA015,Passenger 1015,Passenger,60,320,700,0.45,0.55,80,5
+GO016,Goods 1016,Goods,30,600,3200,0.3,0.35,70,0
+GO017,Goods 1017,Goods,30,600,3200,0.3,0.35,70,0
+GO018,Goods 1018,Goods,30,600,3200,0.3,0.35,70,0
+GO019,Goods 1019,Goods,30,600,3200,0.3,0.35,70,0
+GO020,Goods 1020,Goods,30,600,3200,0.3,0.35,70,0
